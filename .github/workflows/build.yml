@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
 
     steps:
       # https://github.com/actions/checkout
@@ -23,4 +23,3 @@ jobs:
           api-token: ${{ secrets.API_TOKEN }}
           github-name: ${{ secrets.USER_NAME }}
           github-email: ${{ secrets.USER_EMAIL }}
-          github-token: ${{ secrets.GITHUB_TOKEN }}
