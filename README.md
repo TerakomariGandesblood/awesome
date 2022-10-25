@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [TypeScript](#typescript)
-*   [Rust](#rust)
 *   [Handlebars](#handlebars)
 *   [Ruby](#ruby)
 *   [C++](#c)
@@ -27,6 +27,100 @@
 *   [C](#c-1)
 *   [Haskell](#haskell)
 *   [C#](#c-2)
+*   [Perl](#perl)
+*   [CSS](#css)
+*   [Assembly](#assembly)
+
+## Rust
+
+*   [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) -
+*   [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
+*   [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
+*   [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
+*   [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
+*   [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
+*   [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
+*   [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -> wasm workflow tool!
+*   [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+*   [rust-cli/book](https://github.com/rust-cli/book) -   Documentation on how to use the Rust Programming Language to develop commandline applications
+*   [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update) - A cargo subcommand for checking and applying updates to installed executables
+*   [toml-rs/toml](https://github.com/toml-rs/toml) - Rust TOML Parser
+*   [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
+*   [RustCrypto/password-hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs
+*   [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust
+*   [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
+*   [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
+*   [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
+*   [dtolnay/quote](https://github.com/dtolnay/quote) - Rust quasi-quoting
+*   [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
+*   [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
+*   [Kobzol/cargo-pgo](https://github.com/Kobzol/cargo-pgo) - Cargo subcommand for optimizing Rust binaries/libraries with PGO and BOLT.
+*   [SchrodingerZhu/snmalloc-rs](https://github.com/SchrodingerZhu/snmalloc-rs) - rust bindings of snmalloc
+*   [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
+*   [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
+*   [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
+*   [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
+*   [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina) - A system information frontend, with an (unhealthy) emphasis on performance.
+*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+*   [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
+*   [vadimcn/vscode-lldb](https://github.com/vadimcn/vscode-lldb) - A native debugger extension for VSCode based on LLDB
+*   [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
+*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+*   [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
+*   [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
+*   [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
+*   [m4b/bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
+*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
+*   [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
+*   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
+*   [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
+*   [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+*   [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+*   [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+*   [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
+*   [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+*   [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
+*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
+*   [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+*   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+*   [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
+*   [rust-pretty-assertions/rust-pretty-assertions](https://github.com/rust-pretty-assertions/rust-pretty-assertions) - Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
+*   [rusticstuff/simdutf8](https://github.com/rusticstuff/simdutf8) - SIMD-accelerated UTF-8 validation for Rust.
+*   [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+*   [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
+*   [servo/rust-url](https://github.com/servo/rust-url) - URL parser for Rust
+*   [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64) - base64, in rust
+*   [RustCrypto/block-ciphers](https://github.com/RustCrypto/block-ciphers) - Collection of block cipher algorithms written in pure Rust
+*   [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
+*   [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+*   [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
+*   [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
+*   [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
+*   [causal-agent/scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors
+*   [tafia/quick-xml](https://github.com/tafia/quick-xml) - Rust high performance xml reader and writer
+*   [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
+*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
+*   [zip-rs/zip](https://github.com/zip-rs/zip) - Zip implementation in Rust
+*   [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
+*   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
+*   [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
+*   [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) - A cargo subcommand for displaying when Rust dependencies are out of date
+*   [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
+*   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+*   [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
+*   [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+*   [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files
+*   [rust-lang/reference](https://github.com/rust-lang/reference) - The Rust Reference
+*   [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
+*   [rcore-os/zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust.
+*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
 ## JavaScript
 
@@ -49,6 +143,15 @@
 *   [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 *   [DavidAnson/markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) - A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
 *   [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
+*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+*   [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
+*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+*   [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
+*   [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+*   [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+*   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 
 ## HTML
 
@@ -56,12 +159,14 @@
 *   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
 *   [phil-opp/blog\_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 *   [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
+*   [404-novel-project/404-library](https://github.com/404-novel-project/404-library) -
+*   [w3c/epub-specs](https://github.com/w3c/epub-specs) - Shared workspace for EPUB 3 specifications.
+*   [othree/markdown-syntax-zhtw](https://github.com/othree/markdown-syntax-zhtw) - Markdown 語法說明中文版
 
 ## TypeScript
 
 *   [microsoft/playwright-vscode](https://github.com/microsoft/playwright-vscode) - Playwright Test Visual Studio Code integration
 *   [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-*   [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev) - A redesign of Nodejs.org built using Gatsby.js with React.js, TypeScript, and Remark.
 *   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 *   [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 *   [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
@@ -128,46 +233,14 @@
 *   [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 *   [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects
 *   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-
-## Rust
-
-*   [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
-*   [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -> wasm workflow tool!
-*   [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
-*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-*   [rust-cli/book](https://github.com/rust-cli/book) -   Documentation on how to use the Rust Programming Language to develop commandline applications
-*   [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update) - A cargo subcommand for checking and applying updates to installed executables
-*   [toml-rs/toml](https://github.com/toml-rs/toml) - Rust TOML Parser
-*   [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
-*   [RustCrypto/password-hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs
-*   [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust
-*   [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
-*   [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
-*   [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
-*   [dtolnay/quote](https://github.com/dtolnay/quote) - Rust quasi-quoting
-*   [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
-*   [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
-*   [Kobzol/cargo-pgo](https://github.com/Kobzol/cargo-pgo) - Cargo subcommand for optimizing Rust binaries/libraries with PGO and BOLT.
-*   [SchrodingerZhu/snmalloc-rs](https://github.com/SchrodingerZhu/snmalloc-rs) - rust bindings of snmalloc
-*   [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
-*   [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
-*   [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
-*   [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
-*   [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina) - A system information frontend, with an (unhealthy) emphasis on performance.
-*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-*   [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
-*   [vadimcn/vscode-lldb](https://github.com/vadimcn/vscode-lldb) - A native debugger extension for VSCode based on LLDB
-*   [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
-*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-*   [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
-*   [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
-*   [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
-*   [m4b/bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
-*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-*   [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
-*   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
-*   [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
-*   [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+*   [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
+*   [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open\_umbrella:
+*   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+*   [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
+*   [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
+*   [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
+*   [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
+*   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## Handlebars
 
@@ -187,6 +260,9 @@
 *   [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
 *   [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 *   [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+*   [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
+*   [wgtdkp/wgtcc](https://github.com/wgtdkp/wgtcc) - A small C11 compiler
 
 ## Shell
 
@@ -197,6 +273,11 @@
 *   [jumanjihouse/pre-commit-hooks](https://github.com/jumanjihouse/pre-commit-hooks) - git pre-commit hooks that work with http://pre-commit.com/
 *   [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 *   [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
+*   [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
+*   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+*   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+*   [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
+*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## miscellaneous
 
@@ -213,10 +294,15 @@
 *   [pre-commit/mirrors-prettier](https://github.com/pre-commit/mirrors-prettier) - mirror of the `prettier` npm package for pre-commit
 *   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 *   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+*   [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
+*   [Fndroid/clash\_for\_windows\_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+*   [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 
 ## Markdown
 
 *   [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
+*   [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition 施工中）
 
 ## Vue
 
@@ -233,6 +319,9 @@
 *   [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 *   [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 *   [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
+*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+*   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
+*   [zsakvo/Cirno-go](https://github.com/zsakvo/Cirno-go) - yet another tool for downloading books from ciweimao.
 
 ## Groovy
 
@@ -244,10 +333,14 @@
 *   [microsoft/vscode-java-test](https://github.com/microsoft/vscode-java-test) - Run and debug Java test cases in Visual Studio Code.
 *   [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
 *   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+*   [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
+*   [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
+*   [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
 
 ## PowerShell
 
 *   [MicrosoftDocs/intellicode](https://github.com/MicrosoftDocs/intellicode) - Visual Studio IntelliCode - AI-enhanced development tools. 👋Want to submit an issue to MicrosoftDocs/intellicode?  If you have a bug or an idea, read the contributing guidelines before opening an issue.  For FAQ's see
+*   [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 
 ## Swift
 
@@ -269,6 +362,9 @@
 *   [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 *   [ZALin/ESJZone-novel-mirror](https://github.com/ZALin/ESJZone-novel-mirror) - ESJZone 的小說備份
 *   [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## PHP
 
@@ -287,6 +383,9 @@
 
 *   [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 *   [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+*   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+*   [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
+*   [DreamAndDead/CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions) - CSAPP 3e Solutions, migrated to github.io from gitbook.io which is being shut down.
 
 ## Haskell
 
@@ -296,3 +395,16 @@
 ## C\#
 
 *   [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+
+## Perl
+
+*   [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+
+## CSS
+
+*   [bagder/http2-explained](https://github.com/bagder/http2-explained) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
+*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+
+## Assembly
+
+*   [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
