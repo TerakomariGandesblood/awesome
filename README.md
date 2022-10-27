@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
-*   [miscellaneous](#miscellaneous)
+*   [TypeScript](#typescript)
 *   [Java](#java)
-*   [Python](#python)
 *   [Rust](#rust)
+*   [miscellaneous](#miscellaneous)
+*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
-*   [TypeScript](#typescript)
 *   [Handlebars](#handlebars)
 *   [Ruby](#ruby)
 *   [C++](#c)
@@ -31,28 +31,93 @@
 *   [CSS](#css)
 *   [Assembly](#assembly)
 
-## miscellaneous
+## TypeScript
 
-*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
-*   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution\_quickref.html
-*   [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines) - Rust API guidelines
-*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-*   [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc) - VS Code Localization Extension
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
-*   [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
-*   [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
-*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-*   [pre-commit/mirrors-prettier](https://github.com/pre-commit/mirrors-prettier) - mirror of the `prettier` npm package for pre-commit
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-*   [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
-*   [Fndroid/clash\_for\_windows\_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+*   [fwcd/vscode-kotlin](https://github.com/fwcd/vscode-kotlin) - Kotlin code completion, linting and more for VSCode
+*   [xaverh/vscode-clang-format](https://github.com/xaverh/vscode-clang-format) - A Visual Studio Code extension that provides C++, C, Obj-C, Java formatting with the use of clang-format
+*   [MaaAssistantArknights/MaaAsstElectronUI](https://github.com/MaaAssistantArknights/MaaAsstElectronUI) - MeoAssistantArknights GUI with Electron & Vue3
+*   [microsoft/playwright-vscode](https://github.com/microsoft/playwright-vscode) - Playwright Test Visual Studio Code integration
+*   [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+*   [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
+*   [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
+*   [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+*   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+*   [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
+*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+*   [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
+*   [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
+*   [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
+*   [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
+*   [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
+*   [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
+*   [HULANG-BTB/element-ui-helper](https://github.com/HULANG-BTB/element-ui-helper) - A VSCode extension for Element UI.
+*   [antfu/unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) - 📲 On-demand components auto importing for Vue
+*   [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template
+*   [jest-community/vscode-jest](https://github.com/jest-community/vscode-jest) - The optimal flow for Jest based testing in VS Code
+*   [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+*   [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
+*   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+*   [firefox-devtools/vscode-firefox-debug](https://github.com/firefox-devtools/vscode-firefox-debug) - VS Code Debug Adapter for Firefox
+*   [redhat-developer/vscode-xml](https://github.com/redhat-developer/vscode-xml) - Editing XML in Visual Studio Code made easy
+*   [swellaby/vscode-rust-test-adapter](https://github.com/swellaby/vscode-rust-test-adapter) - Rust Test Explorer extension for VS Code
+*   [microsoft/vscode-gradle](https://github.com/microsoft/vscode-gradle) - Manage Gradle Projects, run Gradle tasks and provide better Gradle file authoring experience in VS Code
+*   [microsoft/vscode-spring-boot-dashboard](https://github.com/microsoft/vscode-spring-boot-dashboard) - Spring Boot Dashboard for VS Code
+*   [microsoft/vscode-spring-initializr](https://github.com/microsoft/vscode-spring-initializr) - VSCode Extension for Spring Initializr
+*   [microsoft/vscode-java-dependency](https://github.com/microsoft/vscode-java-dependency) - Manage Java projects in Visual Studio Code.
+*   [redhat-developer/vscode-java](https://github.com/redhat-developer/vscode-java) - Java Language Support for Visual Studio Code
+*   [microsoft/vscode-java-debug](https://github.com/microsoft/vscode-java-debug) - Java Debugger for Visual Studio Code.
+*   [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+*   [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+*   [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
+*   [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
+*   [Ravi-Rajpurohit/vscode-google-search](https://github.com/Ravi-Rajpurohit/vscode-google-search) - google search anything from vscode
+*   [Vi-debug/Google-Search-Type](https://github.com/Vi-debug/Google-Search-Type) - A Vscode extension helps you quickly open and search google.
+*   [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
+*   [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
+*   [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode) - Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
+*   [ChristianKohler/PathIntellisense](https://github.com/ChristianKohler/PathIntellisense) - Visual Studio Code plugin that autocompletes filenames
+*   [ChristianKohler/NpmIntellisense](https://github.com/ChristianKohler/NpmIntellisense) - Visual Studio Code plugin that autocompletes npm modules in import statements
+*   [PKief/vscode-material-product-icons](https://github.com/PKief/vscode-material-product-icons) - Product Icon Theme with Material Icons for VS Code
+*   [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) - Available on the VSCode Marketplace
+*   [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
+*   [microsoft/vscode-hexeditor](https://github.com/microsoft/vscode-hexeditor) - VS Code Hex Editor
+*   [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
+*   [CodeZombieCH/vscode-gitignore](https://github.com/CodeZombieCH/vscode-gitignore) - A simple extension for Visual Studio Code that lets you pull .gitignore files from the https://github.com/github/gitignore repository
+*   [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
+*   [deerawan/vscode-dash](https://github.com/deerawan/vscode-dash) - Dash, Zeal and Velocity documentation integration in Visual Studio Code 🔎📖
+*   [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
+*   [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
+*   [AShujiao/vscode-background-cover](https://github.com/AShujiao/vscode-background-cover) - vscode扩展，添加一张你喜欢的图片铺满整个vscode ..
+*   [program-in-chinese/vscode\_english\_chinese\_dictionary](https://github.com/program-in-chinese/vscode_english_chinese_dictionary) - vscode插件, 实现离线英汉词典功能
+*   [pucelle/vscode-css-navigation](https://github.com/pucelle/vscode-css-navigation) - Allowing Go to definition from HTML to CSS, or Find References from CSS to HTML.
+*   [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+*   [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode
+*   [stylelint/vscode-stylelint](https://github.com/stylelint/vscode-stylelint) - The official Visual Studio Code extension for Stylelint
+*   [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance tooling for Vue
+*   [celian-rib/vscode-webvalidation-extension](https://github.com/celian-rib/vscode-webvalidation-extension) - VScode extension that let you check if an HTML or CSS file respect the W3C standards.
+*   [microsoft/vscode-livepreview](https://github.com/microsoft/vscode-livepreview) - Hosts a local server in your workspace for you to preview your webpages.
+*   [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
+*   [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
+*   [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
+*   [serayuzgur/crates](https://github.com/serayuzgur/crates) - crates is an extension aims to help people to manage their dependencies for rust (crates.io & TOML).
+*   [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
+*   [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects
+*   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+*   [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
+*   [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open\_umbrella:
+*   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+*   [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
+*   [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
+*   [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 
 ## Java
 
+*   [jacoco/jacoco](https://github.com/jacoco/jacoco) - :microscope: Java Code Coverage Library
+*   [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
+*   [google/guava](https://github.com/google/guava) - Google core libraries for Java
+*   [junit-team/junit5](https://github.com/junit-team/junit5) - ✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM
+*   [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
 *   [BruceEckel/OnJava8-Examples](https://github.com/BruceEckel/OnJava8-Examples) - Code Examples for the book "On Java 8"
 *   [spring-projects/sts4](https://github.com/spring-projects/sts4) - The next generation of tooling for Spring Boot, including support for Cloud Foundry manifest files, Concourse CI pipeline definitions, BOSH deployment manifests, and more... - Available for Eclipse, Visual Studio Code, and Theia
 *   [microsoft/vscode-java-test](https://github.com/microsoft/vscode-java-test) - Run and debug Java test cases in Visual Studio Code.
@@ -62,24 +127,10 @@
 *   [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
 *   [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
 
-## Python
-
-*   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-*   [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-*   [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow\_up: and auto changelog generation :open\_file\_folder:
-*   [macisamuele/language-formatters-pre-commit-hooks](https://github.com/macisamuele/language-formatters-pre-commit-hooks) - Collection of custom pre-commit hooks.
-*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
-*   [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
-*   [ZALin/ESJZone-novel-mirror](https://github.com/ZALin/ESJZone-novel-mirror) - ESJZone 的小說備份
-*   [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
-*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
-*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
 ## Rust
 
+*   [rust-lang/rust-semverver](https://github.com/rust-lang/rust-semverver) - Automatic checking for semantic versioning in library crates
+*   [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
 *   [pacak/cargo-show-asm](https://github.com/pacak/cargo-show-asm) - cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 *   [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) -
 *   [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
@@ -164,11 +215,41 @@
 *   [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 *   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 *   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-*   [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files
-*   [rust-lang/reference](https://github.com/rust-lang/reference) - The Rust Reference
-*   [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
-*   [rcore-os/zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust.
-*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+## miscellaneous
+
+*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+*   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution\_quickref.html
+*   [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines) - Rust API guidelines
+*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+*   [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc) - VS Code Localization Extension
+*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+*   [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
+*   [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
+*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+*   [pre-commit/mirrors-prettier](https://github.com/pre-commit/mirrors-prettier) - mirror of the `prettier` npm package for pre-commit
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+*   [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
+*   [Fndroid/clash\_for\_windows\_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
+
+## Python
+
+*   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+*   [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+*   [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow\_up: and auto changelog generation :open\_file\_folder:
+*   [macisamuele/language-formatters-pre-commit-hooks](https://github.com/macisamuele/language-formatters-pre-commit-hooks) - Collection of custom pre-commit hooks.
+*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
+*   [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+*   [ZALin/ESJZone-novel-mirror](https://github.com/ZALin/ESJZone-novel-mirror) - ESJZone 的小說備份
+*   [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## JavaScript
 
@@ -209,85 +290,6 @@
 *   [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 *   [404-novel-project/404-library](https://github.com/404-novel-project/404-library) -
 *   [w3c/epub-specs](https://github.com/w3c/epub-specs) - Shared workspace for EPUB 3 specifications.
-*   [othree/markdown-syntax-zhtw](https://github.com/othree/markdown-syntax-zhtw) - Markdown 語法說明中文版
-
-## TypeScript
-
-*   [microsoft/playwright-vscode](https://github.com/microsoft/playwright-vscode) - Playwright Test Visual Studio Code integration
-*   [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-*   [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
-*   [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
-*   [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-*   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-*   [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
-*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-*   [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
-*   [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
-*   [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
-*   [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
-*   [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-*   [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
-*   [HULANG-BTB/element-ui-helper](https://github.com/HULANG-BTB/element-ui-helper) - A VSCode extension for Element UI.
-*   [antfu/unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) - 📲 On-demand components auto importing for Vue
-*   [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template
-*   [jest-community/vscode-jest](https://github.com/jest-community/vscode-jest) - The optimal flow for Jest based testing in VS Code
-*   [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
-*   [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
-*   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
-*   [firefox-devtools/vscode-firefox-debug](https://github.com/firefox-devtools/vscode-firefox-debug) - VS Code Debug Adapter for Firefox
-*   [redhat-developer/vscode-xml](https://github.com/redhat-developer/vscode-xml) - Editing XML in Visual Studio Code made easy
-*   [swellaby/vscode-rust-test-adapter](https://github.com/swellaby/vscode-rust-test-adapter) - Rust Test Explorer extension for VS Code
-*   [microsoft/vscode-gradle](https://github.com/microsoft/vscode-gradle) - Manage Gradle Projects, run Gradle tasks and provide better Gradle file authoring experience in VS Code
-*   [microsoft/vscode-spring-boot-dashboard](https://github.com/microsoft/vscode-spring-boot-dashboard) - Spring Boot Dashboard for VS Code
-*   [microsoft/vscode-spring-initializr](https://github.com/microsoft/vscode-spring-initializr) - VSCode Extension for Spring Initializr
-*   [microsoft/vscode-java-dependency](https://github.com/microsoft/vscode-java-dependency) - Manage Java projects in Visual Studio Code.
-*   [redhat-developer/vscode-java](https://github.com/redhat-developer/vscode-java) - Java Language Support for Visual Studio Code
-*   [microsoft/vscode-java-debug](https://github.com/microsoft/vscode-java-debug) - Java Debugger for Visual Studio Code.
-*   [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-*   [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
-*   [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
-*   [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
-*   [Ravi-Rajpurohit/vscode-google-search](https://github.com/Ravi-Rajpurohit/vscode-google-search) - google search anything from vscode
-*   [Vi-debug/Google-Search-Type](https://github.com/Vi-debug/Google-Search-Type) - A Vscode extension helps you quickly open and search google.
-*   [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-*   [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
-*   [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode) - Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
-*   [ChristianKohler/PathIntellisense](https://github.com/ChristianKohler/PathIntellisense) - Visual Studio Code plugin that autocompletes filenames
-*   [ChristianKohler/NpmIntellisense](https://github.com/ChristianKohler/NpmIntellisense) - Visual Studio Code plugin that autocompletes npm modules in import statements
-*   [PKief/vscode-material-product-icons](https://github.com/PKief/vscode-material-product-icons) - Product Icon Theme with Material Icons for VS Code
-*   [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) - Available on the VSCode Marketplace
-*   [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
-*   [microsoft/vscode-hexeditor](https://github.com/microsoft/vscode-hexeditor) - VS Code Hex Editor
-*   [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
-*   [CodeZombieCH/vscode-gitignore](https://github.com/CodeZombieCH/vscode-gitignore) - A simple extension for Visual Studio Code that lets you pull .gitignore files from the https://github.com/github/gitignore repository
-*   [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
-*   [deerawan/vscode-dash](https://github.com/deerawan/vscode-dash) - Dash, Zeal and Velocity documentation integration in Visual Studio Code 🔎📖
-*   [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
-*   [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
-*   [AShujiao/vscode-background-cover](https://github.com/AShujiao/vscode-background-cover) - vscode扩展，添加一张你喜欢的图片铺满整个vscode ..
-*   [program-in-chinese/vscode\_english\_chinese\_dictionary](https://github.com/program-in-chinese/vscode_english_chinese_dictionary) - vscode插件, 实现离线英汉词典功能
-*   [pucelle/vscode-css-navigation](https://github.com/pucelle/vscode-css-navigation) - Allowing Go to definition from HTML to CSS, or Find References from CSS to HTML.
-*   [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-*   [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode
-*   [stylelint/vscode-stylelint](https://github.com/stylelint/vscode-stylelint) - The official Visual Studio Code extension for Stylelint
-*   [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance tooling for Vue
-*   [celian-rib/vscode-webvalidation-extension](https://github.com/celian-rib/vscode-webvalidation-extension) - VScode extension that let you check if an HTML or CSS file respect the W3C standards.
-*   [microsoft/vscode-livepreview](https://github.com/microsoft/vscode-livepreview) - Hosts a local server in your workspace for you to preview your webpages.
-*   [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
-*   [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
-*   [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
-*   [serayuzgur/crates](https://github.com/serayuzgur/crates) - crates is an extension aims to help people to manage their dependencies for rust (crates.io & TOML).
-*   [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
-*   [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects
-*   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-*   [actions-rs/toolchain](https://github.com/actions-rs/toolchain) - 🛠️ GitHub Action for `rustup` commands
-*   [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open\_umbrella:
-*   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-*   [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
-*   [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
-*   [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
-*   [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 
 ## Handlebars
 
@@ -323,12 +325,10 @@
 *   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 *   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 *   [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## Markdown
 
 *   [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
-*   [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition 施工中）
 
 ## Vue
 
