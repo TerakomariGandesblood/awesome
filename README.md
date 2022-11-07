@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
 *   [Scala](#scala)
@@ -12,7 +13,6 @@
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
-*   [Java](#java)
 *   [HTML](#html)
 *   [Handlebars](#handlebars)
 *   [Ruby](#ruby)
@@ -32,6 +32,16 @@
 *   [Perl](#perl)
 *   [CSS](#css)
 *   [Assembly](#assembly)
+
+## Java
+
+*   [gdelmas/IntelliJDashPlugin](https://github.com/gdelmas/IntelliJDashPlugin) - A smart and simple plugin that provides keyboard shortcut access for Dash, Velocity or Zeal in IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm and Android Studio.
+*   [BruceEckel/OnJava8-Examples](https://github.com/BruceEckel/OnJava8-Examples) - Code Examples for the book "On Java 8"
+*   [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
+*   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+*   [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
+*   [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
+*   [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
 
 ## miscellaneous
 
@@ -70,7 +80,6 @@
 *   [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 *   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 *   [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
-*   [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
 *   [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 *   [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 *   [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
@@ -240,7 +249,7 @@
 *   [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 *   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 *   [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
-*   [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - Source code for crates.io
+*   [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
 *   [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 *   [m4b/bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
 *   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -292,15 +301,6 @@
 *   [rust-lang/reference](https://github.com/rust-lang/reference) - The Rust Reference
 *   [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 *   [rcore-os/zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust.
-
-## Java
-
-*   [BruceEckel/OnJava8-Examples](https://github.com/BruceEckel/OnJava8-Examples) - Code Examples for the book "On Java 8"
-*   [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
-*   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
-*   [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
-*   [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
-*   [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
 
 ## HTML
 
