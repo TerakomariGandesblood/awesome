@@ -227,7 +227,7 @@
 ## Rust
 
 *   [rust-lang/rust-semverver](https://github.com/rust-lang/rust-semverver) - Automatic checking for semantic versioning in library crates
-*   [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
+*   [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 *   [pacak/cargo-show-asm](https://github.com/pacak/cargo-show-asm) - cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 *   [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
 *   [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
