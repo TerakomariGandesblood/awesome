@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
+*   [C++](#c)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
@@ -13,11 +15,9 @@
 *   [Scala](#scala)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
-*   [Rust](#rust)
 *   [HTML](#html)
 *   [Handlebars](#handlebars)
 *   [Ruby](#ruby)
-*   [C++](#c)
 *   [Markdown](#markdown)
 *   [Vue](#vue)
 *   [Groovy](#groovy)
@@ -32,6 +32,105 @@
 *   [Perl](#perl)
 *   [CSS](#css)
 *   [Assembly](#assembly)
+
+## Rust
+
+*   [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
+*   [rust-lang/rust-semverver](https://github.com/rust-lang/rust-semverver) - Automatic checking for semantic versioning in library crates
+*   [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+*   [pacak/cargo-show-asm](https://github.com/pacak/cargo-show-asm) - cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
+*   [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
+*   [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
+*   [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
+*   [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
+*   [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
+*   [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
+*   [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -> wasm workflow tool!
+*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
+*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+*   [rust-cli/book](https://github.com/rust-cli/book) -   Documentation on how to use the Rust Programming Language to develop commandline applications
+*   [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update) - A cargo subcommand for checking and applying updates to installed executables
+*   [toml-rs/toml](https://github.com/toml-rs/toml) - Rust TOML Parser
+*   [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
+*   [RustCrypto/password-hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs
+*   [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust
+*   [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
+*   [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
+*   [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
+*   [dtolnay/quote](https://github.com/dtolnay/quote) - Rust quasi-quoting
+*   [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
+*   [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
+*   [Kobzol/cargo-pgo](https://github.com/Kobzol/cargo-pgo) - Cargo subcommand for optimizing Rust binaries/libraries with PGO and BOLT.
+*   [SchrodingerZhu/snmalloc-rs](https://github.com/SchrodingerZhu/snmalloc-rs) - rust bindings of snmalloc
+*   [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
+*   [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
+*   [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
+*   [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
+*   [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina) - A system information frontend, with an (unhealthy) emphasis on performance.
+*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+*   [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
+*   [vadimcn/vscode-lldb](https://github.com/vadimcn/vscode-lldb) - A native debugger extension for VSCode based on LLDB
+*   [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
+*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+*   [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
+*   [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
+*   [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
+*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
+*   [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
+*   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
+*   [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
+*   [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+*   [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+*   [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+*   [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
+*   [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+*   [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
+*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
+*   [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+*   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+*   [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
+*   [rust-pretty-assertions/rust-pretty-assertions](https://github.com/rust-pretty-assertions/rust-pretty-assertions) - Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
+*   [rusticstuff/simdutf8](https://github.com/rusticstuff/simdutf8) - SIMD-accelerated UTF-8 validation for Rust.
+*   [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+*   [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
+*   [servo/rust-url](https://github.com/servo/rust-url) - URL parser for Rust
+*   [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64) - base64, in rust
+*   [RustCrypto/block-ciphers](https://github.com/RustCrypto/block-ciphers) - Collection of block cipher algorithms written in pure Rust
+*   [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
+*   [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+*   [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
+*   [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
+*   [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
+*   [causal-agent/scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors
+*   [tafia/quick-xml](https://github.com/tafia/quick-xml) - Rust high performance xml reader and writer
+*   [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
+*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
+*   [zip-rs/zip](https://github.com/zip-rs/zip) - Zip implementation in Rust
+*   [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
+*   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
+*   [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
+*   [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) - A cargo subcommand for displaying when Rust dependencies are out of date
+*   [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
+*   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+*   [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
+*   [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+*   [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files
+
+## C++
+
+*   [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
+*   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
+*   [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
+*   [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
+*   [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+*   [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
 
 ## Python
 
@@ -226,96 +325,6 @@
 *   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 *   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 *   [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-
-## Rust
-
-*   [rust-lang/rust-semverver](https://github.com/rust-lang/rust-semverver) - Automatic checking for semantic versioning in library crates
-*   [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-*   [pacak/cargo-show-asm](https://github.com/pacak/cargo-show-asm) - cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
-*   [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
-*   [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-*   [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
-*   [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
-*   [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
-*   [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
-*   [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -> wasm workflow tool!
-*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
-*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-*   [rust-cli/book](https://github.com/rust-cli/book) -   Documentation on how to use the Rust Programming Language to develop commandline applications
-*   [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update) - A cargo subcommand for checking and applying updates to installed executables
-*   [toml-rs/toml](https://github.com/toml-rs/toml) - Rust TOML Parser
-*   [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
-*   [RustCrypto/password-hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs
-*   [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust
-*   [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
-*   [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
-*   [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
-*   [dtolnay/quote](https://github.com/dtolnay/quote) - Rust quasi-quoting
-*   [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
-*   [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
-*   [Kobzol/cargo-pgo](https://github.com/Kobzol/cargo-pgo) - Cargo subcommand for optimizing Rust binaries/libraries with PGO and BOLT.
-*   [SchrodingerZhu/snmalloc-rs](https://github.com/SchrodingerZhu/snmalloc-rs) - rust bindings of snmalloc
-*   [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
-*   [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
-*   [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
-*   [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
-*   [Macchina-CLI/macchina](https://github.com/Macchina-CLI/macchina) - A system information frontend, with an (unhealthy) emphasis on performance.
-*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-*   [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
-*   [vadimcn/vscode-lldb](https://github.com/vadimcn/vscode-lldb) - A native debugger extension for VSCode based on LLDB
-*   [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
-*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-*   [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - ❌ Cargo plugin for linting your dependencies 🦀
-*   [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
-*   [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
-*   [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-*   [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
-*   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
-*   [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
-*   [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-*   [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
-*   [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-*   [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
-*   [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
-*   [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
-*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
-*   [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
-*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-*   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-*   [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-*   [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
-*   [rust-pretty-assertions/rust-pretty-assertions](https://github.com/rust-pretty-assertions/rust-pretty-assertions) - Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
-*   [rusticstuff/simdutf8](https://github.com/rusticstuff/simdutf8) - SIMD-accelerated UTF-8 validation for Rust.
-*   [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-*   [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
-*   [servo/rust-url](https://github.com/servo/rust-url) - URL parser for Rust
-*   [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64) - base64, in rust
-*   [RustCrypto/block-ciphers](https://github.com/RustCrypto/block-ciphers) - Collection of block cipher algorithms written in pure Rust
-*   [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
-*   [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
-*   [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
-*   [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
-*   [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
-*   [causal-agent/scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors
-*   [tafia/quick-xml](https://github.com/tafia/quick-xml) - Rust high performance xml reader and writer
-*   [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
-*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-*   [zip-rs/zip](https://github.com/zip-rs/zip) - Zip implementation in Rust
-*   [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
-*   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
-*   [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
-*   [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) - A cargo subcommand for displaying when Rust dependencies are out of date
-*   [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
-*   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-*   [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
-*   [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-*   [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files
-*   [rust-lang/reference](https://github.com/rust-lang/reference) - The Rust Reference
 
 ## HTML
 
@@ -338,15 +347,6 @@
 *   [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 *   [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 *   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
-
-## C++
-
-*   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
-*   [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
-*   [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
-*   [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
-*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-*   [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
 
 ## Markdown
 
