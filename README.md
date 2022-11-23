@@ -35,6 +35,9 @@
 
 ## Rust
 
+*   [assert-rs/predicates-rs](https://github.com/assert-rs/predicates-rs) - Boolean-valued predicate functions in Rust
+*   [assert-rs/assert\_cmd](https://github.com/assert-rs/assert_cmd) - Assert process::Command - Easy command initialization and assertions
+*   [assert-rs/assert\_fs](https://github.com/assert-rs/assert_fs) - Filesystem fixtures and assertions.
 *   [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 *   [rust-lang/rust-semverver](https://github.com/rust-lang/rust-semverver) - Automatic checking for semantic versioning in library crates
 *   [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
@@ -120,7 +123,6 @@
 *   [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 *   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 *   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-*   [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files
 
 ## C++
 
@@ -221,7 +223,6 @@
 *   [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 *   [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 *   [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
-*   [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 
 ## miscellaneous
 
@@ -334,7 +335,6 @@
 *   [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 *   [404-novel-project/404-library](https://github.com/404-novel-project/404-library) -
 *   [w3c/epub-specs](https://github.com/w3c/epub-specs) - Shared workspace for EPUB 3 specifications.
-*   [othree/markdown-syntax-zhtw](https://github.com/othree/markdown-syntax-zhtw) - Markdown 語法說明中文版
 
 ## Handlebars
 
