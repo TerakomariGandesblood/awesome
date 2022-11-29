@@ -5,8 +5,9 @@
 ## Table of Contents
 
 *   [C](#c)
-*   [Rust](#rust)
 *   [TypeScript](#typescript)
+*   [Makefile](#makefile)
+*   [Rust](#rust)
 *   [Java](#java)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -33,6 +34,7 @@
 
 ## C
 
+*   [nihui/realcugan-ncnn-vulkan](https://github.com/nihui/realcugan-ncnn-vulkan) - real-cugan converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
 *   [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
 *   [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
 *   [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting\_a\_Patch
@@ -41,8 +43,77 @@
 *   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 *   [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 
+## TypeScript
+
+*   [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter) - VS Code Jupyter extension
+*   [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
+*   [microsoft/vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
+*   [MaaAssistantArknights/MaaAsstElectronUI](https://github.com/MaaAssistantArknights/MaaAsstElectronUI) - MeoAssistantArknights GUI with Electron & Vue3
+*   [microsoft/playwright-vscode](https://github.com/microsoft/playwright-vscode) - Playwright Test Visual Studio Code integration
+*   [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+*   [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
+*   [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
+*   [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+*   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+*   [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
+*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+*   [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
+*   [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
+*   [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
+*   [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
+*   [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
+*   [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
+*   [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template
+*   [jest-community/vscode-jest](https://github.com/jest-community/vscode-jest) - The optimal flow for Jest based testing in VS Code
+*   [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+*   [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
+*   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+*   [firefox-devtools/vscode-firefox-debug](https://github.com/firefox-devtools/vscode-firefox-debug) - VS Code Debug Adapter for Firefox
+*   [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+*   [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
+*   [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
+*   [Ravi-Rajpurohit/vscode-google-search](https://github.com/Ravi-Rajpurohit/vscode-google-search) - google search anything from vscode
+*   [Vi-debug/Google-Search-Type](https://github.com/Vi-debug/Google-Search-Type) - A Vscode extension helps you quickly open and search google.
+*   [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
+*   [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode) - Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
+*   [ChristianKohler/PathIntellisense](https://github.com/ChristianKohler/PathIntellisense) - Visual Studio Code plugin that autocompletes filenames
+*   [ChristianKohler/NpmIntellisense](https://github.com/ChristianKohler/NpmIntellisense) - Visual Studio Code plugin that autocompletes npm modules in import statements
+*   [PKief/vscode-material-product-icons](https://github.com/PKief/vscode-material-product-icons) - Product Icon Theme with Material Icons for VS Code
+*   [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) - Available on the VSCode Marketplace
+*   [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
+*   [microsoft/vscode-hexeditor](https://github.com/microsoft/vscode-hexeditor) - VS Code Hex Editor
+*   [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
+*   [CodeZombieCH/vscode-gitignore](https://github.com/CodeZombieCH/vscode-gitignore) - A simple extension for Visual Studio Code that lets you pull .gitignore files from the https://github.com/github/gitignore repository
+*   [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
+*   [deerawan/vscode-dash](https://github.com/deerawan/vscode-dash) - Dash, Zeal and Velocity documentation integration in Visual Studio Code 🔎📖
+*   [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
+*   [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
+*   [AShujiao/vscode-background-cover](https://github.com/AShujiao/vscode-background-cover) - vscode扩展，添加一张你喜欢的图片铺满整个vscode ..
+*   [program-in-chinese/vscode\_english\_chinese\_dictionary](https://github.com/program-in-chinese/vscode_english_chinese_dictionary) - vscode插件, 实现离线英汉词典功能
+*   [pucelle/vscode-css-navigation](https://github.com/pucelle/vscode-css-navigation) - Allowing Go to definition from HTML to CSS, or Find References from CSS to HTML.
+*   [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode
+*   [stylelint/vscode-stylelint](https://github.com/stylelint/vscode-stylelint) - The official Visual Studio Code extension for Stylelint
+*   [celian-rib/vscode-webvalidation-extension](https://github.com/celian-rib/vscode-webvalidation-extension) - VScode extension that let you check if an HTML or CSS file respect the W3C standards.
+*   [microsoft/vscode-livepreview](https://github.com/microsoft/vscode-livepreview) - Hosts a local server in your workspace for you to preview your webpages.
+*   [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
+*   [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
+*   [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
+*   [serayuzgur/crates](https://github.com/serayuzgur/crates) - crates is an extension aims to help people to manage their dependencies for rust (crates.io & TOML).
+*   [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
+*   [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects
+*   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+*   [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open\_umbrella:
+*   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+*   [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
+
+## Makefile
+
+*   [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
+
 ## Rust
 
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease
 *   [xacrimon/dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
 *   [Amanieu/parking\_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
 *   [tokio-rs/bytes](https://github.com/tokio-rs/bytes) - Utilities for working with bytes
@@ -140,71 +211,6 @@
 *   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 *   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 
-## TypeScript
-
-*   [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
-*   [microsoft/vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
-*   [MaaAssistantArknights/MaaAsstElectronUI](https://github.com/MaaAssistantArknights/MaaAsstElectronUI) - MeoAssistantArknights GUI with Electron & Vue3
-*   [microsoft/playwright-vscode](https://github.com/microsoft/playwright-vscode) - Playwright Test Visual Studio Code integration
-*   [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-*   [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
-*   [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
-*   [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-*   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-*   [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
-*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-*   [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
-*   [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
-*   [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
-*   [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
-*   [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-*   [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
-*   [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template
-*   [jest-community/vscode-jest](https://github.com/jest-community/vscode-jest) - The optimal flow for Jest based testing in VS Code
-*   [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
-*   [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
-*   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
-*   [firefox-devtools/vscode-firefox-debug](https://github.com/firefox-devtools/vscode-firefox-debug) - VS Code Debug Adapter for Firefox
-*   [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-*   [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
-*   [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
-*   [Ravi-Rajpurohit/vscode-google-search](https://github.com/Ravi-Rajpurohit/vscode-google-search) - google search anything from vscode
-*   [Vi-debug/Google-Search-Type](https://github.com/Vi-debug/Google-Search-Type) - A Vscode extension helps you quickly open and search google.
-*   [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-*   [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode) - Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
-*   [ChristianKohler/PathIntellisense](https://github.com/ChristianKohler/PathIntellisense) - Visual Studio Code plugin that autocompletes filenames
-*   [ChristianKohler/NpmIntellisense](https://github.com/ChristianKohler/NpmIntellisense) - Visual Studio Code plugin that autocompletes npm modules in import statements
-*   [PKief/vscode-material-product-icons](https://github.com/PKief/vscode-material-product-icons) - Product Icon Theme with Material Icons for VS Code
-*   [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) - Available on the VSCode Marketplace
-*   [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
-*   [microsoft/vscode-hexeditor](https://github.com/microsoft/vscode-hexeditor) - VS Code Hex Editor
-*   [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
-*   [CodeZombieCH/vscode-gitignore](https://github.com/CodeZombieCH/vscode-gitignore) - A simple extension for Visual Studio Code that lets you pull .gitignore files from the https://github.com/github/gitignore repository
-*   [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
-*   [deerawan/vscode-dash](https://github.com/deerawan/vscode-dash) - Dash, Zeal and Velocity documentation integration in Visual Studio Code 🔎📖
-*   [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
-*   [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
-*   [AShujiao/vscode-background-cover](https://github.com/AShujiao/vscode-background-cover) - vscode扩展，添加一张你喜欢的图片铺满整个vscode ..
-*   [program-in-chinese/vscode\_english\_chinese\_dictionary](https://github.com/program-in-chinese/vscode_english_chinese_dictionary) - vscode插件, 实现离线英汉词典功能
-*   [pucelle/vscode-css-navigation](https://github.com/pucelle/vscode-css-navigation) - Allowing Go to definition from HTML to CSS, or Find References from CSS to HTML.
-*   [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode
-*   [stylelint/vscode-stylelint](https://github.com/stylelint/vscode-stylelint) - The official Visual Studio Code extension for Stylelint
-*   [celian-rib/vscode-webvalidation-extension](https://github.com/celian-rib/vscode-webvalidation-extension) - VScode extension that let you check if an HTML or CSS file respect the W3C standards.
-*   [microsoft/vscode-livepreview](https://github.com/microsoft/vscode-livepreview) - Hosts a local server in your workspace for you to preview your webpages.
-*   [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
-*   [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
-*   [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
-*   [serayuzgur/crates](https://github.com/serayuzgur/crates) - crates is an extension aims to help people to manage their dependencies for rust (crates.io & TOML).
-*   [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
-*   [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects
-*   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-*   [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open\_umbrella:
-*   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-*   [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
-*   [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
-*   [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
-
 ## Java
 
 *   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
@@ -285,7 +291,6 @@
 *   [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 *   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-*   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 
 ## Shell
 
@@ -369,7 +374,6 @@
 ## Swift
 
 *   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-*   [imxieyi/waifu2x-mac](https://github.com/imxieyi/waifu2x-mac) - Waifu2x-ios port to macOS, still in Core ML and Metal
 *   [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 *   [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 *   [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
