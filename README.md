@@ -34,6 +34,9 @@
 
 ## Rust
 
+*   [rust-lang-nursery/lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - A small macro for defining lazy evaluated static variables in Rust.
+*   [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
+*   [rust-lang/cmake-rs](https://github.com/rust-lang/cmake-rs) - Rust build dependency for running cmake
 *   [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 *   [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
@@ -133,10 +136,10 @@
 *   [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 *   [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 *   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 
 ## TypeScript
 
+*   [ultram4rine/vscode-choosealicense](https://github.com/ultram4rine/vscode-choosealicense) - Choose a license for your project in VS Code
 *   [tauri-apps/tauri-vscode](https://github.com/tauri-apps/tauri-vscode) - Visual Studio Code Extension for Tauri apps development
 *   [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter) - VS Code Jupyter extension
 *   [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
@@ -249,7 +252,6 @@
 *   [gdelmas/IntelliJDashPlugin](https://github.com/gdelmas/IntelliJDashPlugin) - A smart and simple plugin that provides keyboard shortcut access for Dash, Velocity or Zeal in IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm and Android Studio.
 *   [BruceEckel/OnJava8-Examples](https://github.com/BruceEckel/OnJava8-Examples) - Code Examples for the book "On Java 8"
 *   [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
-*   [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
 
 ## Python
 
@@ -278,7 +280,6 @@
 *   [microsoft/pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
 *   [mallowigi/material-theme-issues](https://github.com/mallowigi/material-theme-issues) - Issues Repository for the Material Theme UI plugin for JetBrains
 *   [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
-*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 *   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution\_quickref.html
 *   [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines) - Rust API guidelines
 *   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
@@ -348,7 +349,6 @@
 *   [phil-opp/blog\_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 *   [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 *   [404-novel-project/404-library](https://github.com/404-novel-project/404-library) -
-*   [w3c/epub-specs](https://github.com/w3c/epub-specs) - Shared workspace for EPUB 3 specifications.
 
 ## Handlebars
 
