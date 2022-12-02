@@ -5,13 +5,13 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [C](#c)
 *   [Makefile](#makefile)
 *   [Java](#java)
 *   [Python](#python)
-*   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [C++](#c-1)
 *   [Go](#go)
@@ -34,6 +34,7 @@
 
 ## TypeScript
 
+*   [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) - Available on the VSCode Marketplace
 *   [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 *   [ultram4rine/vscode-choosealicense](https://github.com/ultram4rine/vscode-choosealicense) - Choose a license for your project in VS Code
 *   [tauri-apps/tauri-vscode](https://github.com/tauri-apps/tauri-vscode) - Visual Studio Code Extension for Tauri apps development
@@ -71,7 +72,6 @@
 *   [ChristianKohler/PathIntellisense](https://github.com/ChristianKohler/PathIntellisense) - Visual Studio Code plugin that autocompletes filenames
 *   [ChristianKohler/NpmIntellisense](https://github.com/ChristianKohler/NpmIntellisense) - Visual Studio Code plugin that autocompletes npm modules in import statements
 *   [PKief/vscode-material-product-icons](https://github.com/PKief/vscode-material-product-icons) - Product Icon Theme with Material Icons for VS Code
-*   [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) - Available on the VSCode Marketplace
 *   [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
 *   [microsoft/vscode-hexeditor](https://github.com/microsoft/vscode-hexeditor) - VS Code Hex Editor
 *   [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
@@ -96,6 +96,27 @@
 *   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 *   [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open\_umbrella:
 *   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+
+## miscellaneous
+
+*   [JonathanSpeek/palenight-iterm2](https://github.com/JonathanSpeek/palenight-iterm2) - An iTerm2 color scheme based on the Material Palenight theme 🔥🔥
+*   [hzzheyang/strongR-frida-android](https://github.com/hzzheyang/strongR-frida-android) - An anti detection version frida-server for android.
+*   [microsoft/pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
+*   [mallowigi/material-theme-issues](https://github.com/mallowigi/material-theme-issues) - Issues Repository for the Material Theme UI plugin for JetBrains
+*   [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
+*   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution\_quickref.html
+*   [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines) - Rust API guidelines
+*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+*   [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc) - VS Code Localization Extension
+*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+*   [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
+*   [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
+*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+*   [pre-commit/mirrors-prettier](https://github.com/pre-commit/mirrors-prettier) - mirror of the `prettier` npm package for pre-commit
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+*   [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
 
 ## Rust
 
@@ -274,26 +295,6 @@
 *   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
-## miscellaneous
-
-*   [hzzheyang/strongR-frida-android](https://github.com/hzzheyang/strongR-frida-android) - An anti detection version frida-server for android.
-*   [microsoft/pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
-*   [mallowigi/material-theme-issues](https://github.com/mallowigi/material-theme-issues) - Issues Repository for the Material Theme UI plugin for JetBrains
-*   [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
-*   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution\_quickref.html
-*   [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines) - Rust API guidelines
-*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-*   [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc) - VS Code Localization Extension
-*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
-*   [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
-*   [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
-*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-*   [pre-commit/mirrors-prettier](https://github.com/pre-commit/mirrors-prettier) - mirror of the `prettier` npm package for pre-commit
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-*   [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
-
 ## Shell
 
 *   [taiki-e/install-action](https://github.com/taiki-e/install-action) - GitHub Action for installing development tools (mainly from GitHub Releases).
@@ -301,7 +302,6 @@
 *   [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 *   [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
 *   [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
-*   [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
 *   [jumanjihouse/pre-commit-hooks](https://github.com/jumanjihouse/pre-commit-hooks) - git pre-commit hooks that work with http://pre-commit.com/
 *   [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 *   [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
