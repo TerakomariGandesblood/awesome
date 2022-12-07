@@ -52,6 +52,7 @@
 *   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 *   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 *   [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
+*   [Fndroid/clash\_for\_windows\_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 
 ## Rust
 
@@ -274,7 +275,6 @@
 
 *   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 *   [gdelmas/IntelliJDashPlugin](https://github.com/gdelmas/IntelliJDashPlugin) - A smart and simple plugin that provides keyboard shortcut access for Dash, Velocity or Zeal in IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm and Android Studio.
-*   [BruceEckel/OnJava8-Examples](https://github.com/BruceEckel/OnJava8-Examples) - Code Examples for the book "On Java 8"
 *   [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
 *   [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
 
