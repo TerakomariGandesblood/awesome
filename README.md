@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
+*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [C](#c)
@@ -32,30 +32,11 @@
 *   [CSS](#css)
 *   [Assembly](#assembly)
 
-## miscellaneous
-
-*   [alessandrojcm/commitlint-pre-commit-hook](https://github.com/alessandrojcm/commitlint-pre-commit-hook) - A pre-commit hook for commitlint
-*   [JonathanSpeek/palenight-iterm2](https://github.com/JonathanSpeek/palenight-iterm2) - An iTerm2 color scheme based on the Material Palenight theme 🔥🔥
-*   [hzzheyang/strongR-frida-android](https://github.com/hzzheyang/strongR-frida-android) - An anti detection version frida-server for android.
-*   [microsoft/pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
-*   [mallowigi/material-theme-issues](https://github.com/mallowigi/material-theme-issues) - Issues Repository for the Material Theme UI plugin for JetBrains
-*   [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
-*   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution\_quickref.html
-*   [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines) - Rust API guidelines
-*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-*   [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc) - VS Code Localization Extension
-*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
-*   [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
-*   [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
-*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-*   [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
-*   [Fndroid/clash\_for\_windows\_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
-
 ## Rust
 
+*   [google/crumsort-rs](https://github.com/google/crumsort-rs) - A parallelized Rust port of crumsort
+*   [google/ripunzip](https://github.com/google/ripunzip) -
+*   [Peternator7/strum](https://github.com/Peternator7/strum) - A small rust library for adding custom derives to enums
 *   [tokio-rs/console](https://github.com/tokio-rs/console) - a debugger for async rust!
 *   [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) - crates.io documentation generator
 *   [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
@@ -162,6 +143,27 @@
 *   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 *   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 
+## miscellaneous
+
+*   [alessandrojcm/commitlint-pre-commit-hook](https://github.com/alessandrojcm/commitlint-pre-commit-hook) - A pre-commit hook for commitlint
+*   [JonathanSpeek/palenight-iterm2](https://github.com/JonathanSpeek/palenight-iterm2) - An iTerm2 color scheme based on the Material Palenight theme 🔥🔥
+*   [hzzheyang/strongR-frida-android](https://github.com/hzzheyang/strongR-frida-android) - An anti detection version frida-server for android.
+*   [microsoft/pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
+*   [mallowigi/material-theme-issues](https://github.com/mallowigi/material-theme-issues) - Issues Repository for the Material Theme UI plugin for JetBrains
+*   [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
+*   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution\_quickref.html
+*   [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines) - Rust API guidelines
+*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+*   [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc) - VS Code Localization Extension
+*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+*   [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
+*   [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
+*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+*   [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
+
 ## TypeScript
 
 *   [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
@@ -253,8 +255,6 @@
 *   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 *   [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 *   [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
-*   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
 ## C
 
