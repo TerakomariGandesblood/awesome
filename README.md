@@ -34,6 +34,11 @@
 
 ## Rust
 
+*   [Nugine/simd](https://github.com/Nugine/simd) - SIMD-accelerated operations
+*   [matklad/once\_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros
+*   [uuid-rs/uuid](https://github.com/uuid-rs/uuid) - Generate and parse UUIDs.
+*   [cloudflare/boring](https://github.com/cloudflare/boring) - BoringSSL bindings for the Rust programming language.
+*   [rust-lang/rustc-hash](https://github.com/rust-lang/rustc-hash) - Custom hash algorithm used by rustc (plus hashmap/set aliases): fast, deterministic, not secure
 *   [google/crumsort-rs](https://github.com/google/crumsort-rs) - A parallelized Rust port of crumsort
 *   [google/ripunzip](https://github.com/google/ripunzip) -
 *   [Peternator7/strum](https://github.com/Peternator7/strum) - A small rust library for adding custom derives to enums
@@ -41,7 +46,6 @@
 *   [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) - crates.io documentation generator
 *   [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
 *   [Stebalien/tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
-*   [rust-lang-nursery/lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - A small macro for defining lazy evaluated static variables in Rust.
 *   [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
 *   [rust-lang/cmake-rs](https://github.com/rust-lang/cmake-rs) - Rust build dependency for running cmake
 *   [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
@@ -120,8 +124,6 @@
 *   [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 *   [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 *   [servo/rust-url](https://github.com/servo/rust-url) - URL parser for Rust
-*   [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64) - base64, in rust
-*   [RustCrypto/block-ciphers](https://github.com/RustCrypto/block-ciphers) - Collection of block cipher algorithms written in pure Rust
 *   [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 *   [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 *   [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
@@ -141,7 +143,6 @@
 *   [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 *   [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 *   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 
 ## miscellaneous
 
@@ -276,7 +277,6 @@
 *   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 *   [gdelmas/IntelliJDashPlugin](https://github.com/gdelmas/IntelliJDashPlugin) - A smart and simple plugin that provides keyboard shortcut access for Dash, Velocity or Zeal in IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm and Android Studio.
 *   [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
-*   [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
 
 ## Python
 
