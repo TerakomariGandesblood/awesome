@@ -34,6 +34,8 @@
 
 ## Rust
 
+*   [pfernie/cookie\_store](https://github.com/pfernie/cookie_store) - An implementation of RFC6265
+*   [Hanaasagi/machine-uid](https://github.com/Hanaasagi/machine-uid) - Get machine id without root permission
 *   [pfernie/reqwest\_cookie\_store](https://github.com/pfernie/reqwest_cookie_store) -
 *   [dirs-dev/directories-rs](https://github.com/dirs-dev/directories-rs) - a mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 *   [Nugine/simd](https://github.com/Nugine/simd) - SIMD-accelerated operations
@@ -211,7 +213,6 @@
 *   [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects
 *   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 *   [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open\_umbrella:
-*   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## miscellaneous
 
@@ -257,7 +258,6 @@
 *   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 *   [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 *   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-*   [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
 ## C
 
