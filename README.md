@@ -34,6 +34,8 @@
 
 ## Rust
 
+*   [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
+*   [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 *   [pfernie/cookie\_store](https://github.com/pfernie/cookie_store) - An implementation of RFC6265
 *   [Hanaasagi/machine-uid](https://github.com/Hanaasagi/machine-uid) - Get machine id without root permission
 *   [pfernie/reqwest\_cookie\_store](https://github.com/pfernie/reqwest_cookie_store) -
@@ -131,7 +133,6 @@
 *   [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 *   [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 *   [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
-*   [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 *   [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 *   [causal-agent/scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors
 *   [tafia/quick-xml](https://github.com/tafia/quick-xml) - Rust high performance xml reader and writer
@@ -146,7 +147,6 @@
 *   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 *   [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 *   [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 ## TypeScript
 
