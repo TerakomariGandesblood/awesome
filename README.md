@@ -34,6 +34,7 @@
 
 ## Rust
 
+*   [Nemo157/async-compression](https://github.com/Nemo157/async-compression) - Adaptors between compression crates and Rust's async IO types
 *   [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
 *   [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 *   [pfernie/cookie\_store](https://github.com/pfernie/cookie_store) - An implementation of RFC6265
@@ -407,7 +408,6 @@
 ## CSS
 
 *   [bagder/http2-explained](https://github.com/bagder/http2-explained) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
-*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## Assembly
 
