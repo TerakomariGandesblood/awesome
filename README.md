@@ -34,6 +34,10 @@
 
 ## Rust
 
+*   [dtolnay/dtoa](https://github.com/dtolnay/dtoa) - Fast functions for printing floating-point primitives to an io::Write
+*   [dtolnay/link-cplusplus](https://github.com/dtolnay/link-cplusplus) - Link libstdc++ or libc++ automatically or manually
+*   [dtolnay/dissimilar](https://github.com/dtolnay/dissimilar) - Diff library with semantic cleanup, based on Google's diff-match-patch
+*   [dtolnay/itoa](https://github.com/dtolnay/itoa) - Fast function for printing integer primitives to a decimal string
 *   [Nemo157/async-compression](https://github.com/Nemo157/async-compression) - Adaptors between compression crates and Rust's async IO types
 *   [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
 *   [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
@@ -146,8 +150,6 @@
 *   [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) - A cargo subcommand for displaying when Rust dependencies are out of date
 *   [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 *   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-*   [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
-*   [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 
 ## TypeScript
 
@@ -269,7 +271,6 @@
 *   [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
 *   [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 *   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-*   [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 
 ## Makefile
 
@@ -284,7 +285,7 @@
 ## Python
 
 *   [hluwa/frida-dexdump](https://github.com/hluwa/frida-dexdump) - A frida tool to dump dex in memory to support security engineers analyzing malware.
-*   [charliermarsh/vscode-ruff](https://github.com/charliermarsh/vscode-ruff) - A Visual Studio Code extension with support for the Ruff linter.
+*   [charliermarsh/ruff-vscode](https://github.com/charliermarsh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter.
 *   [python/cpython](https://github.com/python/cpython) - The Python programming language
 *   [microsoft/vscode-isort](https://github.com/microsoft/vscode-isort) - Import sorting for python using the isort library.
 *   [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
@@ -321,7 +322,6 @@
 *   [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 *   [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 *   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-*   [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
 
 ## Go
 
