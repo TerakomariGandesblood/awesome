@@ -34,7 +34,7 @@
 
 ## Rust
 
-*   [dtolnay/dtoa](https://github.com/dtolnay/dtoa) - Fast functions for printing floating-point primitives to an io::Write
+*   [dtolnay/ryu](https://github.com/dtolnay/ryu) - Fast floating point to string conversion
 *   [dtolnay/link-cplusplus](https://github.com/dtolnay/link-cplusplus) - Link libstdc++ or libc++ automatically or manually
 *   [dtolnay/dissimilar](https://github.com/dtolnay/dissimilar) - Diff library with semantic cleanup, based on Google's diff-match-patch
 *   [dtolnay/itoa](https://github.com/dtolnay/itoa) - Fast function for printing integer primitives to a decimal string
