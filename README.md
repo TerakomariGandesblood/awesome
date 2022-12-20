@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [C](#c)
 *   [Makefile](#makefile)
-*   [Java](#java)
 *   [Python](#python)
 *   [Shell](#shell)
 *   [C++](#c-1)
@@ -32,8 +32,16 @@
 *   [CSS](#css)
 *   [Assembly](#assembly)
 
+## Java
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书
+*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+*   [gdelmas/IntelliJDashPlugin](https://github.com/gdelmas/IntelliJDashPlugin) - A smart and simple plugin that provides keyboard shortcut access for Dash, Velocity or Zeal in IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm and Android Studio.
+*   [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
+
 ## Rust
 
+*   [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
 *   [dtolnay/ryu](https://github.com/dtolnay/ryu) - Fast floating point to string conversion
 *   [dtolnay/link-cplusplus](https://github.com/dtolnay/link-cplusplus) - Link libstdc++ or libc++ automatically or manually
 *   [dtolnay/dissimilar](https://github.com/dtolnay/dissimilar) - Diff library with semantic cleanup, based on Google's diff-match-patch
@@ -162,7 +170,6 @@
 *   [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter) - VS Code Jupyter extension
 *   [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
 *   [microsoft/vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
-*   [MaaAssistantArknights/MaaAsstElectronUI](https://github.com/MaaAssistantArknights/MaaAsstElectronUI) - MeoAssistantArknights GUI with Electron & Vue3
 *   [microsoft/playwright-vscode](https://github.com/microsoft/playwright-vscode) - Playwright Test Visual Studio Code integration
 *   [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 *   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -276,19 +283,12 @@
 
 *   [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
-## Java
-
-*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-*   [gdelmas/IntelliJDashPlugin](https://github.com/gdelmas/IntelliJDashPlugin) - A smart and simple plugin that provides keyboard shortcut access for Dash, Velocity or Zeal in IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm and Android Studio.
-*   [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
-
 ## Python
 
 *   [hluwa/frida-dexdump](https://github.com/hluwa/frida-dexdump) - A frida tool to dump dex in memory to support security engineers analyzing malware.
 *   [charliermarsh/ruff-vscode](https://github.com/charliermarsh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter.
 *   [python/cpython](https://github.com/python/cpython) - The Python programming language
 *   [microsoft/vscode-isort](https://github.com/microsoft/vscode-isort) - Import sorting for python using the isort library.
-*   [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
 *   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 *   [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
