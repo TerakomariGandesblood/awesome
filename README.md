@@ -5,15 +5,16 @@
 ## Table of Contents
 
 *   [Rust](#rust)
-*   [Java](#java)
+*   [C#](#c)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
-*   [C](#c)
+*   [C](#c-1)
 *   [Makefile](#makefile)
+*   [Java](#java)
 *   [Python](#python)
 *   [Shell](#shell)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [Go](#go)
 *   [Kotlin](#kotlin)
 *   [Scala](#scala)
@@ -27,7 +28,6 @@
 *   [Objective-C](#objective-c)
 *   [SCSS](#scss)
 *   [Haskell](#haskell)
-*   [C#](#c-2)
 *   [Perl](#perl)
 *   [CSS](#css)
 *   [Assembly](#assembly)
@@ -154,12 +154,10 @@
 *   [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) - A cargo subcommand for displaying when Rust dependencies are out of date
 *   [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 
-## Java
+## C\#
 
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书
-*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-*   [gdelmas/IntelliJDashPlugin](https://github.com/gdelmas/IntelliJDashPlugin) - A smart and simple plugin that provides keyboard shortcut access for Dash, Velocity or Zeal in IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm and Android Studio.
-*   [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
+*   [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 
 ## TypeScript
 
@@ -285,6 +283,12 @@
 
 *   [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
+## Java
+
+*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+*   [gdelmas/IntelliJDashPlugin](https://github.com/gdelmas/IntelliJDashPlugin) - A smart and simple plugin that provides keyboard shortcut access for Dash, Velocity or Zeal in IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm and Android Studio.
+*   [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
+
 ## Python
 
 *   [hluwa/frida-dexdump](https://github.com/hluwa/frida-dexdump) - A frida tool to dump dex in memory to support security engineers analyzing malware.
@@ -396,10 +400,6 @@
 ## Haskell
 
 *   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-
-## C\#
-
-*   [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 
 ## Perl
 
