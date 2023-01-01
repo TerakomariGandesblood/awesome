@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Shell](#shell)
 *   [Rust](#rust)
+*   [Shell](#shell)
 *   [JavaScript](#javascript)
 *   [Svelte](#svelte)
 *   [C#](#c)
@@ -33,20 +33,9 @@
 *   [CSS](#css)
 *   [Assembly](#assembly)
 
-## Shell
-
-*   [obi1kenobi/cargo-semver-checks-action](https://github.com/obi1kenobi/cargo-semver-checks-action) - A GitHub Action for running cargo-semver-checks
-*   [taiki-e/install-action](https://github.com/taiki-e/install-action) - GitHub Action for installing development tools (mainly from GitHub Releases).
-*   [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain
-*   [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
-*   [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
-*   [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
-*   [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
-*   [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-*   [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
-
 ## Rust
 
+*   [hyperium/http](https://github.com/hyperium/http) - Rust HTTP types
 *   [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks) - Scan your Rust crate for semver violations.
 *   [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 *   [servo/rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack
@@ -165,7 +154,18 @@
 *   [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 *   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 *   [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
-*   [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) - A cargo subcommand for displaying when Rust dependencies are out of date
+
+## Shell
+
+*   [obi1kenobi/cargo-semver-checks-action](https://github.com/obi1kenobi/cargo-semver-checks-action) - A GitHub Action for running cargo-semver-checks
+*   [taiki-e/install-action](https://github.com/taiki-e/install-action) - GitHub Action for installing development tools (mainly from GitHub Releases).
+*   [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain
+*   [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
+*   [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
+*   [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
+*   [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
+*   [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
+*   [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 
 ## JavaScript
 
