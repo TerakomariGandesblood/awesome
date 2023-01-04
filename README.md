@@ -35,6 +35,7 @@
 
 ## Rust
 
+*   [danieldg/async-once-cell](https://github.com/danieldg/async-once-cell) -
 *   [hyperium/http](https://github.com/hyperium/http) - Rust HTTP types
 *   [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks) - Scan your Rust crate for semver violations.
 *   [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
@@ -153,7 +154,6 @@
 *   [zip-rs/zip](https://github.com/zip-rs/zip) - Zip implementation in Rust
 *   [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 *   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
-*   [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 
 ## Shell
 
