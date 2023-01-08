@@ -35,6 +35,7 @@
 
 ## Rust
 
+*   [oli-obk/rust-pandoc](https://github.com/oli-obk/rust-pandoc) -
 *   [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
 *   [hyperium/http](https://github.com/hyperium/http) - Rust HTTP types
 *   [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks) - Scan your Rust crate for semver violations.
@@ -218,7 +219,6 @@
 *   [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 *   [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects
 *   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-*   [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open\_umbrella:
 
 ## Shell
 
