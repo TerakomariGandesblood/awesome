@@ -35,6 +35,7 @@
 
 ## Rust
 
+*   [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) -
 *   [oli-obk/rust-pandoc](https://github.com/oli-obk/rust-pandoc) -
 *   [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
 *   [hyperium/http](https://github.com/hyperium/http) - Rust HTTP types
@@ -154,7 +155,6 @@
 *   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 *   [zip-rs/zip](https://github.com/zip-rs/zip) - Zip implementation in Rust
 *   [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
-*   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 
 ## TypeScript
 
