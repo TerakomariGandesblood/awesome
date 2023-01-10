@@ -31,10 +31,13 @@
 *   [Haskell](#haskell)
 *   [Perl](#perl)
 *   [CSS](#css)
-*   [Assembly](#assembly)
 
 ## Rust
 
+*   [m-ou-se/rust-atomics-and-locks](https://github.com/m-ou-se/rust-atomics-and-locks) - Code examples, data structures, and links from my book, Rust Atomics and Locks.
+*   [console-rs/console](https://github.com/console-rs/console) - A rust console and terminal abstraction
+*   [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
+*   [Seeker14491/opener](https://github.com/Seeker14491/opener) - Open a file or link in the system default program.
 *   [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) -
 *   [oli-obk/rust-pandoc](https://github.com/oli-obk/rust-pandoc) -
 *   [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
@@ -152,9 +155,6 @@
 *   [causal-agent/scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors
 *   [tafia/quick-xml](https://github.com/tafia/quick-xml) - Rust high performance xml reader and writer
 *   [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
-*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-*   [zip-rs/zip](https://github.com/zip-rs/zip) - Zip implementation in Rust
-*   [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 
 ## TypeScript
 
@@ -412,7 +412,3 @@
 ## CSS
 
 *   [bagder/http2-explained](https://github.com/bagder/http2-explained) - A detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
-
-## Assembly
-
-*   [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
